@@ -1,0 +1,5 @@
+#忽略所有的.a文件
+*.a
+
+#忽略access.log文件
+access.log
